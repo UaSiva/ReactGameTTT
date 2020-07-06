@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactTicTacToe/static/css/main.34e98b6d.chunk.css",
+    "main.js": "/reactTicTacToe/static/js/main.9927ef6c.chunk.js",
+    "main.js.map": "/reactTicTacToe/static/js/main.9927ef6c.chunk.js.map",
+    "runtime-main.js": "/reactTicTacToe/static/js/runtime-main.16ca6390.js",
+    "runtime-main.js.map": "/reactTicTacToe/static/js/runtime-main.16ca6390.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/reactTicTacToe/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f95b29ba.chunk.js": "/reactTicTacToe/static/js/2.f95b29ba.chunk.js",
+    "static/js/2.f95b29ba.chunk.js.map": "/reactTicTacToe/static/js/2.f95b29ba.chunk.js.map",
+    "index.html": "/reactTicTacToe/index.html",
+    "precache-manifest.b1a3cf2f278aa4c156c541d4f18dadd3.js": "/reactTicTacToe/precache-manifest.b1a3cf2f278aa4c156c541d4f18dadd3.js",
+    "service-worker.js": "/reactTicTacToe/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/reactTicTacToe/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.34e98b6d.chunk.css.map": "/reactTicTacToe/static/css/main.34e98b6d.chunk.css.map",
+    "static/js/2.f95b29ba.chunk.js.LICENSE.txt": "/reactTicTacToe/static/js/2.f95b29ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16ca6390.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f95b29ba.chunk.js",
+    "static/css/main.34e98b6d.chunk.css",
+    "static/js/main.9927ef6c.chunk.js"
+  ]
+}
